@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ihsanul Haq.
-- 🌱 I’m currently learning B-tech computer science & Engineering and i am in 5th semester.
+- 🌱 I’m currently learning B-tech computer science & Engineering and i am in 6th semester(jan 2025).
 - 👀 I’m now interested to study c prgramming language, continuing my study with help of a text book named "<b>programming in ANSI-C</b>" by the author <i>E Balaguruswamy</i>.
 - I started reading it,After first few chapters i can say it is actually a good book,readers understands the concepts though author used simple words to write it.
 - I also like HTML,java,c++,kotlin etc.And I'am looking forward to learn those in future time.
